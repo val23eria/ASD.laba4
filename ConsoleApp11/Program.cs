@@ -63,7 +63,6 @@ namespace ConsoleApp11
                                 Console.WriteLine();
                                 Console.WriteLine(myStack);
                                 break;
-
                             }
                         case ConsoleKey.D3:
                         case ConsoleKey.NumPad3:
